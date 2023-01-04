@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/App-Website/static/media/app.85dfecd2.png"
   },
   {
-    "revision": "260f20cc6ce89112a908cbed46809b5e",
+    "revision": "066455eef58e9797fdeb445c12e1c5b3",
     "url": "/App-Website/index.html"
   }
 ];
